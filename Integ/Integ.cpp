@@ -3,13 +3,13 @@
 
 using namespace System;
 
-// подинтегральная функция
+// РїРѕРґРёРЅС‚РµРіСЂР°Р»СЊРЅР°СЏ С„СѓРЅРєС†РёСЏ
 double F(double x)
 {
     return log(x + 1) / log10(sqrt(x) + 1);
 }
 
-// метод прямоугольника
+// РјРµС‚РѕРґ РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРєР°
 double integrate(double (*f)(double), double a, double b)
 {
     int n = 10;
