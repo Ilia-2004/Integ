@@ -1,0 +1,2 @@
+F:\Ilya\Programming\Integ\Integ\x64\Debug\Integ.vcxproj.AssemblyReference.cache
+F:\Ilya\Programming\Integ\Integ\x64\Debug\Integ.vcxproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,8 @@
+﻿  TestInteg.cpp
+F:\Ilya\Programming\Integ\Integ\Integ.cpp(4,23): error C2871: System: пространство имен с таким именем не существует
+F:\Ilya\Programming\Integ\Integ\Integ.cpp(29,10): error C2065: array: необъявленный идентификатор
+F:\Ilya\Programming\Integ\Integ\Integ.cpp(29,16): error C2653: System: не является именем класса или пространства имен
+F:\Ilya\Programming\Integ\Integ\Integ.cpp(29,24): error C2065: String: необъявленный идентификатор
+F:\Ilya\Programming\Integ\Integ\Integ.cpp(29,32): error C2059: синтаксическая ошибка: >
+F:\Ilya\Programming\Integ\Integ\Integ.cpp(30,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+F:\Ilya\Programming\Integ\Integ\Integ.cpp(30,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
